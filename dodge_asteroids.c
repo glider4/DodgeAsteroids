@@ -72,7 +72,7 @@ struct asteroid_logs        // Define structure for asteroid data
 
 int main(void)
 {
-    printf(" Daniel Oldham, CS 223 Final Project \n\n");
+    printf("  \n\n");
 
     int n = 15;                 // number of asteroids
     int t = 3;                  // number of tries granted to user
